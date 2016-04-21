@@ -1,0 +1,98 @@
+body{
+	background: #E0F4F8;
+}
+
+.arriba{
+	background:#00566B;
+	height: 100%;
+}
+.pie{
+	background:#00566B;
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	color: azure;
+	position: absolute;
+	bottom: 0;
+}
+.logo{
+	margin-top: 5px;
+	display: inline-block;
+
+}
+.titulo{
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: -3%;
+	color: azure;
+}
+.titulo2{
+	display: inline-block;
+	margin-top: 45px;
+	margin-left: -20%;
+	color: azure;
+}
+
+.titulo3{
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: -1%;
+	color: azure;
+}
+.menu{
+	background: #028981;
+	height: 25px;
+	margin-top: -21px;
+	color: azure;
+	padding-top: 3px;
+}
+.menu a{
+	
+	color: azure;
+	float: right;
+	letter-spacing: 2px;
+	margin-right: 5px;
+}
+
+.caja{
+	
+	border-radius: 5px;
+	box-shadow: 0px 0px 20px 0px gray;
+	background: #ACE3EF;
+	max-width: 400px;
+	min-width: 200px;
+	display: none;
+	margin: auto;
+	border-radius: 10px;
+	height: 100%;
+
+
+}
+
+.formulario{
+	padding: 20px;
+}
+
+.caja h3{
+	text-align: center;
+	color: azure;
+	background:#00566B;
+	letter-spacing: 2px;
+	padding: 5px;
+
+}
+.inpus{
+	height: 40px;
+	padding: 10px;
+	box-shadow: 0px 0px 10px azure;
+	font-family: verdana;
+}
+
+.principal{
+	padding-top: 40px;
+
+}
+.boton{
+	border:2px solid brown;
+	color:brown;
+}
